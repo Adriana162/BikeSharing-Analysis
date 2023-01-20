@@ -10,7 +10,7 @@ Then five visualizations were created and made into a story in Tableau.
 
 ### Results
 
-Link to Tableau public story with descriptions of each image-[Link](https://public.tableau.com/views/CitiBike-1/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Link to Tableau public story with descriptions of each image-[Link to dashboard](https://public.tableau.com/views/CitiBike-1/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Summary
 Looking at the data, the highest number of trips have been around 5 minutes in duration. Also the highest number of users for all these trips 
