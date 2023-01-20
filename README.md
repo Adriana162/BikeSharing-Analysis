@@ -14,4 +14,4 @@ Link to Tableau public story with descriptions of each image-[Link to dashboard]
 
 ### Summary
 Looking at the data, the highest number of trips have been around 5 minutes in duration. Also the highest number of users for all these trips 
-are male. 
+are male. When looking at the trips by weekday per hour, the concentrated values are around 8am and 5pm. 
